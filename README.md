@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**ThodorisBabo/ThodorisBabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Thodoris**, a 25-year-old Electrical & Computer Engineering graduate, currently based in Greece.  
 
-Here are some ideas to get you started:
+Right now, I’m finishing my **military service** and actively **looking for job opportunities** to kick-start my career as a software / machine learning engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### These days I’m focused on:
+
+- Machine Learning & data-driven projects   
+- Improving my software engineering fundamentals
+
+### Some stuff I built:
+
+- **University ML Projects** – Classification, regression, and experimentation with real datasets  
+- **Engineering Simulations** – Projects combining theory with code  
+- **Personal Experiments** – Small projects built in my free time to explore ML concepts and tools  
+
+### Fun facts:
+
+- I like **sports** 🏀⚽  
+- Big **anime fan** 🎌  
+- Always curious about how things work under the hood
+
+---
+
+📫 **Currently open to opportunities** — feel free to reach out!
+

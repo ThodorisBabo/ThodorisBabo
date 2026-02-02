@@ -3,7 +3,7 @@
 I’m **Thodoris**, a 25-year-old Electrical & Computer Engineering graduate, currently based in Greece.  
 
 Right now, I’m finishing my **military service** and actively **looking for job opportunities** to kick-start and develop a career in data analysis, machine learning, and related
-data-centric roles
+data-centric roles.
 
 ### These days I’m focused on:
 

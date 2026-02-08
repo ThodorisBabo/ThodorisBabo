@@ -13,7 +13,6 @@ data-centric roles.
 ### Some stuff I built:
 
 - **University ML Projects** – Classification, regression, and experimentation with real datasets  
-- **Engineering Simulations** – Projects combining theory with code  
 - **Personal Experiments** – Small projects built in my free time to explore ML concepts and tools  
 
 ### Fun facts:

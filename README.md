@@ -17,8 +17,8 @@ data-centric roles.
 
 ### Fun facts:
 
-- I like **sports** 🏀⚽  
-- Big **anime fan** 🎌  
+- I like **sports** 
+- Big **anime fan**   
 - Always curious about how things work under the hood
 
 ---
